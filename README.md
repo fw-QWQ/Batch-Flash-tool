@@ -48,4 +48,4 @@ CMD刷机君是一款基于Windows命令行的开源工具，用于简化ADB和F
 欢迎从[GitHub仓库](https://github.com/fw-QWQ/Batch-Flash-tool)下载或提交Pull Request改进项目。
 
 ## 许可证
-CMD刷机君采用MIT许可证发布。详细内容请参阅[https://github.com/fw-QWQ/Batch-Flash-tool/edit/main/README.md](LICENSE)文件。
+CMD刷机君采用MIT许可证发布。详细内容请参阅[LICENSE](https://github.com/fw-QWQ/Batch-Flash-tool/edit/main/LICENSE)文件。
