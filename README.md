@@ -45,7 +45,7 @@ CMD刷机君是一款基于Windows命令行的开源工具，用于简化ADB和F
 - 如需将本工具应用于商业或非个人用途，请遵循MIT协议并与原作者取得联系。
 
 ## 获取与贡献
-欢迎从[GitHub仓库](https://github.com/fw-QWQ/Flasher-Bot?tab=readme-ov-file)下载或提交Pull Request改进项目。
+欢迎从[GitHub仓库](https://github.com/fw-QWQ/Batch-Flash-tool)下载或提交Pull Request改进项目。
 
 ## 许可证
-CMD刷机君采用MIT许可证发布。详细内容请参阅[https://github.com/fw-QWQ/Flasher-Bot/blob/main/LICENSE](LICENSE)文件。
+CMD刷机君采用MIT许可证发布。详细内容请参阅[https://github.com/fw-QWQ/Batch-Flash-tool/edit/main/README.md](LICENSE)文件。
